@@ -1,0 +1,16 @@
+Git Notes:
+
+Branch is nothing but a sub-directory.
+
+Clone: 
+git push -f origin master
+git clone https://github.com/ProntoAccess/Pilot.git master
+
+Push updates:
+git add .
+git commit -m "comments"
+git push -u origin master
+
+Other Tools:
+git pull https://github.com/ProntoAccess/Pilot.git master
+git fetch origin
